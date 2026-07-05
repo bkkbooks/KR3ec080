@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec080_000.yaml, hash: 'sha256:791e4e12f0f68b233d2dfe7a253c14702f675737d0dc01de56b24009a41313af'}
+  - {seq: 0, filename: KR3ec080_000.yaml, hash: 'sha256:7a90ffb49fad15402f0be075e304e606607fe57169abd6c63c34c2641061ccda'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec080_000.markers.yaml, hash: 'sha256:5e4d8df9c2c731f7f7396d8ebe77f6281e270aa24ae5739aa6a9ce8aa425f8c6'}
+  - {seq: 0, role: markers, filename: assets/KR3ec080_000.markers.yaml, hash: 'sha256:c43f7bd385bc1736315e91eaf45c4cf4c28ea9d6decc95bfcee4fd726cb48dcf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1551,7 +1551,4 @@ table_of_contents:
   label: 中國藥物學大綱補正
   type: section
   level: 1
-hash: sha256:64b8574c88e04f47ad546cc61228605095d350b7ce8c4d34a9896304ada19de4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:636e515bb564d79e20d7c9a83a2a417db3517b9c6e47d575a4c19310d7b9d599
