@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec080/v1
 canonical_location: https://kanripo.org/bkk/KR3ec080/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中國藥物學大綱
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec080_000.yaml, hash: 'sha256:7a90ffb49fad15402f0be075e304e606607fe57169abd6c63c34c2641061ccda'}
+  - {seq: 0, filename: KR3ec080_000.yaml, hash: 'sha256:5aecab18f3c9319076eefbc0c3e3f2898c032b9d9c0aabdb79b33a7e10aaba2d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec080_000.markers.yaml, hash: 'sha256:c43f7bd385bc1736315e91eaf45c4cf4c28ea9d6decc95bfcee4fd726cb48dcf'}
+  - {seq: 0, role: markers, filename: assets/KR3ec080_000.markers.yaml, hash: 'sha256:fb0e7a379931a81d2d06593fb4e4b99e2ffc94f326e62550617176dcdcb1609c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1551,4 +1551,7 @@ table_of_contents:
   label: 中國藥物學大綱補正
   type: section
   level: 1
-hash: sha256:636e515bb564d79e20d7c9a83a2a417db3517b9c6e47d575a4c19310d7b9d599
+hash: sha256:0d9b74e0d132b49406a37cb951b1b6a164d8e8a93c04b13f15979c0869225c6f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
